@@ -1,0 +1,9 @@
+.note {
+    background: #ffffff;
+    border-radius: 7px;
+    box-shadow: 0 5px 5px rgb(250, 6, 6);
+    padding: 10px;
+    margin: 16px;
+    /* float: left; */
+    margin-right: 0;
+}
